@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JohannnF
+- 👋 Hi, I’m @JohannnF!
 - 👀 I’m interested in Web and Software development
 - 🌱 I’m currently learning Git, Javascript, C#
 - 💞️ I’m looking to collaborate on the future
