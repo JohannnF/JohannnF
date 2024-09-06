@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JohannnF!
 - 👀 I’m interested in Web and Software development
-- 🌱 I’m currently learning Git, Javascript, C#
+- 🌱 I’m currently learning Git, Javascript, Typescript, React.js, Next.js framework 💀💀💀
 - 💞️ I’m looking to collaborate on the future
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
